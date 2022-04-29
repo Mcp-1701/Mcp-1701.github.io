@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'american-brewery';
+   font-display: swap;
+   src: url('american-brewery/font.ttf');
+}
+@font-face {
+   font-family: 'LocalBrewerySans';
+   font-display: swap;
+   src: url('LocalBrewerySans/font.ttf');
+}
